@@ -14,7 +14,7 @@ Criar um formulário utilizando o seguinte layout abaixo:
 
 ![image](https://github.com/angelolustosa/api_cep_fs14/assets/15823158/15381df9-e6a5-4d91-b72e-5e6757adf9ef)
 
-3 - Ao selecionar o estado do _response_ que vem da API do CEP, a localidade deve ser selecionada tabmbém.
+3 - Ao selecionar o estado do _response_ que vem da API do CEP, a localidade deve ser selecionada também através da API https://servicodados.ibge.gov.br/api/v1/localidades/estados/CE/distritos.
 
 4 - [OPCIONAL] Fazer a ordenação dos inputs selects.
 
